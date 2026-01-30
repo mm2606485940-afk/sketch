@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/mm2606485940-afk/sketch/issues"
   },
-  "homepage": "https://github.com/mm2606485940-afk/sketch#readme"
+  "homepage": "https://github.com/mm2606485940-afk/sketch#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
