@@ -1,0 +1,21 @@
+{
+  "name": "sketch",
+  "version": "1.0.0",
+  "description": "345 ## 123",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mm2606485940-afk/sketch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mm2606485940-afk/sketch/issues"
+  },
+  "homepage": "https://github.com/mm2606485940-afk/sketch#readme"
+}
